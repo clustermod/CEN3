@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="CEN">
+    <Package name="Notepad">
+        <Key ID="STR_CEN_Notepad_category">
+            <English>Notepad</English>
+        </Key>
+        <Key ID="STR_CEN_cycleNotepad">
+            <English>Cycle Active Notepad</English>
+        </Key>
+        <Key ID="STR_CEN_cycleNotepadTooltip">
+            <English>Cycles between all your notepads to select the active one</English>
+        </Key>
+        <Key ID="STR_CEN_Notepad_notebook_displayName">
+            <English>Notebook</English>
+        </Key>
+        <Key ID="STR_CEN_Notepad_notebook_description">
+            <English>Rite in the Rain notebook. To take notes in.</English>
+        </Key>
+        <Key ID="STR_CEN_Notepad_fieldbook_displayName">
+            <English>Fieldbook</English>
+        </Key>
+        <Key ID="STR_CEN_Notepad_fieldbook_description">
+            <English>Rite in the Rain fieldbook. To take notes in.</English>
+        </Key>
+    </Package>
+</Project>

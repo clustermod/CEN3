@@ -1,0 +1,3 @@
+class DOUBLES(PREFIX,RscFieldbook) {
+	
+};
