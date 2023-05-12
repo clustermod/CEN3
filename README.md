@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-    <table style="background-color:#ffa500">
+    <table style="background-color:#ffa500" align="center">
         <tr>
             <td>⚠</td>
             <td style="b">Pre-Release Development phase</td>
