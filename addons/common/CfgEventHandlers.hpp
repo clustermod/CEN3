@@ -18,3 +18,15 @@ class Extended_PreStart_EventHandlers {
         init = QUOTE( call COMPILE_FILE(XEH_preStart) );
     };
 };
+
+class Extended_DisplayLoad_EventHandlers {
+    class RscDisplayArsenal {
+        ADDON = QUOTE(_this call FUNC(arsenalOpen));
+    };
+};
+
+class Extended_DisplayUnload_EventHandlers {
+    class RscDisplayArsenal {
+        ADDON = QUOTE(_this call FUNC(arsenalClose));
+    };
+};

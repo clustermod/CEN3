@@ -1,3 +1,3 @@
 protocol = 1;
-publishedid = 2495038149; // Change to workshop ID
-name = "Cluster Community Assets"
+publishedid = 0; // Change to workshop ID
+name = "CE: Notepad"
